@@ -7,9 +7,7 @@ __pycache__/
 *.so
 
 # Audio Files
-*.mp3
-*.wav
-*.m4a
+
 
 # Distribution / packaging
 .Python
